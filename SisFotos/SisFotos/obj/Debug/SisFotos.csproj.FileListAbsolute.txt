@@ -1,0 +1,42 @@
+c:\users\lucas selliach\documents\visual studio 2013\Projects\SisFotos\SisFotos\bin\Debug\SisFotos.exe.config
+c:\users\lucas selliach\documents\visual studio 2013\Projects\SisFotos\SisFotos\bin\Debug\SisFotos.exe
+c:\users\lucas selliach\documents\visual studio 2013\Projects\SisFotos\SisFotos\bin\Debug\SisFotos.pdb
+c:\users\lucas selliach\documents\visual studio 2013\Projects\SisFotos\SisFotos\obj\Debug\SisFotos.csprojResolveAssemblyReference.cache
+c:\users\lucas selliach\documents\visual studio 2013\Projects\SisFotos\SisFotos\obj\Debug\App.g.cs
+c:\users\lucas selliach\documents\visual studio 2013\Projects\SisFotos\SisFotos\obj\Debug\SisFotos_MarkupCompile.cache
+c:\users\lucas selliach\documents\visual studio 2013\Projects\SisFotos\SisFotos\obj\Debug\SisFotos.g.resources
+c:\users\lucas selliach\documents\visual studio 2013\Projects\SisFotos\SisFotos\obj\Debug\SisFotos.Properties.Resources.resources
+c:\users\lucas selliach\documents\visual studio 2013\Projects\SisFotos\SisFotos\obj\Debug\SisFotos.csproj.GenerateResource.Cache
+c:\users\lucas selliach\documents\visual studio 2013\Projects\SisFotos\SisFotos\obj\Debug\SisFotos.exe
+c:\users\lucas selliach\documents\visual studio 2013\Projects\SisFotos\SisFotos\obj\Debug\SisFotos.pdb
+c:\users\lucas selliach\documents\visual studio 2013\Projects\SisFotos\SisFotos\obj\Debug\MainWindow.baml
+c:\users\lucas selliach\documents\visual studio 2013\Projects\SisFotos\SisFotos\obj\Debug\MainWindow.g.cs
+C:\Users\Lucas Selliach\documents\visual studio 2013\Projects\SisFotos\SisFotos\obj\Debug\View\TelaMelhorar.baml
+C:\Users\Lucas Selliach\documents\visual studio 2013\Projects\SisFotos\SisFotos\obj\Debug\View\TelaMelhorar.g.cs
+C:\Users\Lucas Selliach\documents\visual studio 2013\Projects\SisFotos\SisFotos\bin\Debug\AForge.dll
+C:\Users\Lucas Selliach\documents\visual studio 2013\Projects\SisFotos\SisFotos\bin\Debug\AForge.Imaging.dll
+C:\Users\Lucas Selliach\documents\visual studio 2013\Projects\SisFotos\SisFotos\bin\Debug\AForge.Math.dll
+C:\Users\Lucas Selliach\documents\visual studio 2013\Projects\SisFotos\SisFotos\bin\Debug\AForge.xml
+C:\Users\Lucas Selliach\documents\visual studio 2013\Projects\SisFotos\SisFotos\bin\Debug\AForge.Imaging.xml
+C:\Users\Lucas Selliach\documents\visual studio 2013\Projects\SisFotos\SisFotos\bin\Debug\AForge.Math.xml
+D:\Documentos\Estudos\Meu Site\Projeto SisFotos\SisFotos\SisFotos\bin\Debug\SisFotos.exe.config
+D:\Documentos\Estudos\Meu Site\Projeto SisFotos\SisFotos\SisFotos\obj\Debug\SisFotos.exe
+D:\Documentos\Estudos\Meu Site\Projeto SisFotos\SisFotos\SisFotos\obj\Debug\SisFotos.pdb
+D:\Documentos\Estudos\Meu Site\Projeto SisFotos\SisFotos\SisFotos\bin\Debug\SisFotos.exe
+D:\Documentos\Estudos\Meu Site\Projeto SisFotos\SisFotos\SisFotos\bin\Debug\SisFotos.pdb
+D:\Documentos\Estudos\Meu Site\Projeto SisFotos\SisFotos\SisFotos\bin\Debug\AForge.dll
+D:\Documentos\Estudos\Meu Site\Projeto SisFotos\SisFotos\SisFotos\bin\Debug\AForge.Imaging.dll
+D:\Documentos\Estudos\Meu Site\Projeto SisFotos\SisFotos\SisFotos\bin\Debug\AForge.Math.dll
+D:\Documentos\Estudos\Meu Site\Projeto SisFotos\SisFotos\SisFotos\bin\Debug\AForge.xml
+D:\Documentos\Estudos\Meu Site\Projeto SisFotos\SisFotos\SisFotos\bin\Debug\AForge.Imaging.xml
+D:\Documentos\Estudos\Meu Site\Projeto SisFotos\SisFotos\SisFotos\bin\Debug\AForge.Math.xml
+D:\Documentos\Estudos\Meu Site\Projeto SisFotos\SisFotos\SisFotos\obj\Debug\SisFotos.csprojResolveAssemblyReference.cache
+D:\Documentos\Estudos\Meu Site\Projeto SisFotos\SisFotos\SisFotos\obj\Debug\MainWindow.baml
+D:\Documentos\Estudos\Meu Site\Projeto SisFotos\SisFotos\SisFotos\obj\Debug\View\TelaMelhorar.baml
+D:\Documentos\Estudos\Meu Site\Projeto SisFotos\SisFotos\SisFotos\obj\Debug\MainWindow.g.cs
+D:\Documentos\Estudos\Meu Site\Projeto SisFotos\SisFotos\SisFotos\obj\Debug\View\TelaMelhorar.g.cs
+D:\Documentos\Estudos\Meu Site\Projeto SisFotos\SisFotos\SisFotos\obj\Debug\App.g.cs
+D:\Documentos\Estudos\Meu Site\Projeto SisFotos\SisFotos\SisFotos\obj\Debug\SisFotos_MarkupCompile.cache
+D:\Documentos\Estudos\Meu Site\Projeto SisFotos\SisFotos\SisFotos\obj\Debug\SisFotos.g.resources
+D:\Documentos\Estudos\Meu Site\Projeto SisFotos\SisFotos\SisFotos\obj\Debug\SisFotos.Properties.Resources.resources
+D:\Documentos\Estudos\Meu Site\Projeto SisFotos\SisFotos\SisFotos\obj\Debug\SisFotos.csproj.GenerateResource.Cache

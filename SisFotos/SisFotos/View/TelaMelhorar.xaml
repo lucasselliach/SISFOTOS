@@ -1,0 +1,45 @@
+﻿<Window x:Class="SisFotos.View.TelaMelhorar"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="MELHORAR FOTOS" Height="400" Width="600" WindowStartupLocation="CenterScreen" WindowStyle="SingleBorderWindow" ResizeMode="NoResize">
+
+    <!-- Grid Principal -->
+    <Grid Width="Auto" Height="Auto" >
+        <Grid.Background>
+            <SolidColorBrush Color="{DynamicResource {x:Static SystemColors.ControlColorKey}}"/>
+        </Grid.Background>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="*"/>
+            <ColumnDefinition Width="*"/>
+            <ColumnDefinition Width="*"/>
+            <ColumnDefinition Width="*"/>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="0.15*"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="0.2*"/>
+        </Grid.RowDefinitions>
+        
+        <Grid Width="Auto" Height="Auto" Row="0" Column="0" ColumnSpan="4">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="*"/>
+                <ColumnDefinition Width="*"/>
+                <ColumnDefinition Width="*"/>
+                <ColumnDefinition Width="*"/>
+                <ColumnDefinition Width="0.4*"/>
+            </Grid.ColumnDefinitions>
+
+            <TextBox Name="TextBoxCaminho" Grid.Row="0" Grid.Column="0" Grid.ColumnSpan="4" Margin="10,5,5,5"></TextBox>
+            <Button Name="ButtonProcurarImagens" Grid.Row="0" Grid.Column="4" Margin="5,5,10,5" Click="ProcurarArquivos_OnClick" ></Button>
+        </Grid>
+
+        <ScrollViewer Grid.Row="1" Grid.Column="0" Grid.ColumnSpan="4">
+            <WrapPanel Name="WrapPanelFotosSelecionadas" Margin="10,5,10,5" HorizontalAlignment="Center" />
+        </ScrollViewer>
+
+        <ProgressBar Name="ProgressBarMelhoria" Grid.Column="1" Grid.Row="2" Grid.ColumnSpan="2" Margin="5,5,5,10" Minimum="0" Maximum="{Binding ProgressBarMaximum}" Value="{Binding ProgressBarValue}"></ProgressBar>
+        <Button Name="ButtonVoltar" Content="SAIR" Grid.Column="0" Grid.Row="2" FontSize="14" FontWeight="Bold" Margin="10,5,5,10" Click="ButtonVoltar_OnClick"/>
+        <Button Name="ButtonMelhorar" Content="MELHORAR" Grid.Column="3" Grid.Row="2" FontSize="14" FontWeight="Bold" Margin="5,5,10,10" Click="ButtonMelhorar_OnClick"/>
+       
+    </Grid>
+</Window>
