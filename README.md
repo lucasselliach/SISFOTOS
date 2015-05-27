@@ -6,7 +6,7 @@ Segundo a galera da Microsoft o  Windows Presentation Foundation (WPF) é a atua
 
 Basicamente o WPF herda conceitos do CLR (Common Language Runtime) e no caso da parte de visão é dividido em dois seguimentos, o XAML e o CODEBEHIND. O XAML (Extensible Markup Language) é uma linguagem de marcação  utilizado na criação da UI (interface gráfica, exatamente o que o usuário final irá visualizar e interagir), sendo o code-behind a parte logica da tela.  Essa operação segue o conceito de um pattern chamado MVVM (Model View View Model), esse pattern estabelece uma separação de responsabilidade, no caso do WPF, ele visa separar o que for visão da logica.
 
-![]({{site.baseurl}}/https://i-msdn.sec.s-msft.com/dynimg/IC448690.png)
+![]({{https://i-msdn.sec.s-msft.com}}/dynimg/IC448690.png)
 
 Nesse tutorial não irei aplicar 100% do pattern pois pretendo trazer de forma mais tranquila e rápida a utilização do WPF realizando o viewmodel direto no codebehind. a aplicação correta deixarei para o proximo tutorial seguindo o padrão, mas é possível por enquanto ver a aplicação correta do mvvm em [http://imasters.com.br/artigo/18900/desenvolvimento/entendendo-o-pattern-model-view-viewmodel-mvvm](http://imasters.com.br/artigo/18900/desenvolvimento/entendendo-o-pattern-model-view-viewmodel-mvvm)
 
