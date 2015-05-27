@@ -1,4 +1,4 @@
-### SISFOTOS – Sistema para tratar imagem em WPF
+##  SISFOTOS – Sistema para tratar imagem em WPF
 
 Bom dia galera, hoje vou mostrar para vocês como fazer um programa simples para melhorar levemente uma imagens alterando seu contraste sendo que o objetivo desse tutorial não é exatamente a alteração da imagem mas ensinar a utilizar o WPF (Windows Presentation Foundation ).
 
@@ -10,7 +10,7 @@ Basicamente o WPF herda conceitos do CLR (Common Language Runtime) e no caso da 
 
 Nesse tutorial não irei aplicar 100% do pattern pois pretendo trazer de forma mais tranquila e rápida a utilização do WPF realizando o viewmodel direto no codebehind. a aplicação correta deixarei para o proximo tutorial seguindo o padrão, mas é possível por enquanto ver a aplicação correta do mvvm em [http://imasters.com.br/artigo/18900/desenvolvimento/entendendo-o-pattern-model-view-viewmodel-mvvm](http://imasters.com.br/artigo/18900/desenvolvimento/entendendo-o-pattern-model-view-viewmodel-mvvm)
 
-## SISFOTOS WPF
+SISFOTOS WPF
 
 1º Abra o Visual Studio (no meu caso o 2013) e vá em NEW PROJECT > VISUAL C# > WPF APPLICATION:
 
