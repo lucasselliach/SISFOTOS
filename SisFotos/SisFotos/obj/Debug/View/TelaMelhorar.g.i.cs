@@ -40,7 +40,7 @@ namespace SisFotos.View {
     public partial class TelaMelhorar : System.Windows.Window, System.Windows.Markup.IComponentConnector {
         
         
-        #line 32 "..\..\..\View\TelaMelhorar.xaml"
+        #line 30 "..\..\..\View\TelaMelhorar.xaml"
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.TextBox TextBoxCaminho;
         
@@ -48,7 +48,7 @@ namespace SisFotos.View {
         #line hidden
         
         
-        #line 33 "..\..\..\View\TelaMelhorar.xaml"
+        #line 31 "..\..\..\View\TelaMelhorar.xaml"
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.Button ButtonProcurarImagens;
         
@@ -56,7 +56,7 @@ namespace SisFotos.View {
         #line hidden
         
         
-        #line 37 "..\..\..\View\TelaMelhorar.xaml"
+        #line 34 "..\..\..\View\TelaMelhorar.xaml"
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.WrapPanel WrapPanelFotosSelecionadas;
         
@@ -64,7 +64,7 @@ namespace SisFotos.View {
         #line hidden
         
         
-        #line 40 "..\..\..\View\TelaMelhorar.xaml"
+        #line 36 "..\..\..\View\TelaMelhorar.xaml"
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.ProgressBar ProgressBarMelhoria;
         
@@ -72,7 +72,7 @@ namespace SisFotos.View {
         #line hidden
         
         
-        #line 41 "..\..\..\View\TelaMelhorar.xaml"
+        #line 38 "..\..\..\View\TelaMelhorar.xaml"
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.Button ButtonVoltar;
         
@@ -80,7 +80,7 @@ namespace SisFotos.View {
         #line hidden
         
         
-        #line 42 "..\..\..\View\TelaMelhorar.xaml"
+        #line 39 "..\..\..\View\TelaMelhorar.xaml"
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.Button ButtonMelhorar;
         
@@ -123,7 +123,7 @@ namespace SisFotos.View {
             case 2:
             this.ButtonProcurarImagens = ((System.Windows.Controls.Button)(target));
             
-            #line 33 "..\..\..\View\TelaMelhorar.xaml"
+            #line 31 "..\..\..\View\TelaMelhorar.xaml"
             this.ButtonProcurarImagens.Click += new System.Windows.RoutedEventHandler(this.ProcurarArquivos_OnClick);
             
             #line default
@@ -138,7 +138,7 @@ namespace SisFotos.View {
             case 5:
             this.ButtonVoltar = ((System.Windows.Controls.Button)(target));
             
-            #line 41 "..\..\..\View\TelaMelhorar.xaml"
+            #line 38 "..\..\..\View\TelaMelhorar.xaml"
             this.ButtonVoltar.Click += new System.Windows.RoutedEventHandler(this.ButtonVoltar_OnClick);
             
             #line default
@@ -147,7 +147,7 @@ namespace SisFotos.View {
             case 6:
             this.ButtonMelhorar = ((System.Windows.Controls.Button)(target));
             
-            #line 42 "..\..\..\View\TelaMelhorar.xaml"
+            #line 39 "..\..\..\View\TelaMelhorar.xaml"
             this.ButtonMelhorar.Click += new System.Windows.RoutedEventHandler(this.ButtonMelhorar_OnClick);
             
             #line default
