@@ -40,3 +40,6 @@ D:\Documentos\Estudos\Meu Site\Projeto SisFotos\SisFotos\SisFotos\obj\Debug\SisF
 D:\Documentos\Estudos\Meu Site\Projeto SisFotos\SisFotos\SisFotos\obj\Debug\SisFotos.g.resources
 D:\Documentos\Estudos\Meu Site\Projeto SisFotos\SisFotos\SisFotos\obj\Debug\SisFotos.Properties.Resources.resources
 D:\Documentos\Estudos\Meu Site\Projeto SisFotos\SisFotos\SisFotos\obj\Debug\SisFotos.csproj.GenerateResource.Cache
+D:\Documentos\Projetos\SISFOTOS\SisFotos\SisFotos\bin\Debug\SisFotos.exe.config
+D:\Documentos\Projetos\SISFOTOS\SisFotos\SisFotos\obj\Debug\SisFotos.exe
+D:\Documentos\Projetos\SISFOTOS\SisFotos\SisFotos\obj\Debug\SisFotos.pdb
