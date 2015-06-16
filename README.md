@@ -24,9 +24,7 @@ Nota-se que essa será a nossa primeira tela a ser visualizada quando compilar o
 
 3º Vamos montar nossa tela da seguinte forma:
 
-<p>Here is an example of AppleScript:</p>
-
-
+![Código1](https://raw.githubusercontent.com/lucasselliach/SISFOTOS/master/Imagens/Codigo1.png).
 
 Veja que que realizei a modificação do titulo da nossa tela, junto também o tamanho dela alterando as propriedades Title, Height e Widht. Também configurei ela para abrir centralizada a tela do usuário e como uma ToolWindow, além de deixar ela sempre do mesmo tamanho.
 Costumo a utilizar um GRID para realizar o redimensionamento dinâmico da minha tela com os atributos Grid. ColumnDefinitions e Grid.RowDefinitions, pode ser utilizado outros tipos como StackPanel ou WrapPanel. Mais detalhes aqui [MSDN](https://msdn.microsoft.com/en-us/library/ms754152.aspx)
